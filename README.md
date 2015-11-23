@@ -1,1 +1,1 @@
-# ajax-proxy
+# http-proxy-jsonp
