@@ -12,6 +12,9 @@
   },
   "author": "wangjun",
   "license": "ISC",
+  "bin": {
+    "http-proxy-jsonp": "http-proxy-jsonp.js"
+  },
   "bugs": {
     "url": "https://github.com/nevergiveup-j/http-proxy-jsonp/issues"
   },

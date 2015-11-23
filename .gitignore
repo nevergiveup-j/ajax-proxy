@@ -1,0 +1,8 @@
+dea
+.DS_Store
+# Logs
+logs
+*.log
+
+.DS_Store
+node_modules/
