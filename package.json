@@ -1,0 +1,19 @@
+{
+  "name": "http-proxy-jsonp",
+  "version": "1.0.0",
+  "description": "Browser solve cross-domain",
+  "main": "http-proxy-jsonp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nevergiveup-j/http-proxy-jsonp.git"
+  },
+  "author": "wangjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevergiveup-j/http-proxy-jsonp/issues"
+  },
+  "homepage": "https://github.com/nevergiveup-j/http-proxy-jsonp#readme"
+}
