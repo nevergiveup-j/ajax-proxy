@@ -4,7 +4,7 @@
   "description": "Browser solve cross-domain",
   "main": "http-proxy-jsonp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node http-proxy-jsonp.js"
   },
   "repository": {
     "type": "git",
