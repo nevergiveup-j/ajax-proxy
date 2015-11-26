@@ -1,10 +1,11 @@
 {
   "name": "http-proxy-jsonp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browser solve cross-domain",
-  "main": "http-proxy-jsonp.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node http-proxy-jsonp.js"
+    "start": "node http-proxy-jsonp.js",
+    "end": "node http-proxy-jsonp.js"
   },
   "repository": {
     "type": "git",

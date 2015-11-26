@@ -1,4 +1,15 @@
-'use strict'
+'use strict';
+
+var http = require('http');
+
+http.createServer(function(req, res){
+
+
+    console.log('11');
+    res.end('Hello');
+}).listen(1129);
+
+
 
 var Proxy = {
     init: function(){
@@ -8,5 +19,10 @@ var Proxy = {
         return 'upload';
     }
 }
+
+
+
+
+
 
 module.exports = Proxy;
